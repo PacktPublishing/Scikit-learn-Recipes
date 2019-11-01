@@ -1,5 +1,4 @@
 # Scikit-learn-Recipes
-##Practical recipes for powerful data analysis with scikit-learn
 
 This is the code repository for [scikit-learn Recipes [Video]](https://www.packtpub.com/data/scikit-learn-recipes-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
